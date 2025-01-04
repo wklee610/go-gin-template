@@ -1,5 +1,3 @@
-# go-jin-template
-
 # Go Version  
 * 1.23.1  
 

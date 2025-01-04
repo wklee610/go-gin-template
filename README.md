@@ -4,7 +4,7 @@
 * 1.23.1  
 
 # Before start  
-* Download Jin Framework
+* Download Gin Framework
 ```bash
 go get -u github.com/gin-gonic/gin
 ```
